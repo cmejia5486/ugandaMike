@@ -11,7 +11,7 @@ crashlytics = "3.0.4"
 
 # Compose
 composeBom = "2025.06.01"
-activityCompose = "1.10.1"
+activityCompose = "1.13.0"
 icons = "1.7.8"
 
 
