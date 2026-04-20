@@ -16,7 +16,7 @@ icons = "1.7.8"
 
 
 # AndroidX
-lifecycleRuntimeKtx = "2.9.1"
+lifecycleRuntimeKtx = "2.10.0"
 hiltNavigationCompose = "1.2.0"
 
 # Hilt DI
